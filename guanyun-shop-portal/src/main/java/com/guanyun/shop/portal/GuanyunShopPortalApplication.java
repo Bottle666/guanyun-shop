@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class GuanyunShopPortalApplication {
 
     public static void main(String[] args) {
-        //
+        ////
         SpringApplication.run(GuanyunShopPortalApplication.class, args);
     }
 }
