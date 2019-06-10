@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guanyun-shop.iml" filepath="$PROJECT_DIR$/guanyun-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guanyun-shop-admin/guanyun-shop-admin.iml" filepath="$PROJECT_DIR$/guanyun-shop-admin/guanyun-shop-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guanyun-shop-bean/guanyun-shop-bean.iml" filepath="$PROJECT_DIR$/guanyun-shop-bean/guanyun-shop-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guanyun-shop-portal/guanyun-shop-portal.iml" filepath="$PROJECT_DIR$/guanyun-shop-portal/guanyun-shop-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guanyun-shop-provider/guanyun-shop-provider.iml" filepath="$PROJECT_DIR$/guanyun-shop-provider/guanyun-shop-provider.iml" />
+    </modules>
+  </component>
+</project>

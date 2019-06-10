@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="guanyun-shop-admin" />
+        <module name="guanyun-shop-bean" />
+        <module name="guanyun-shop-portal" />
+        <module name="guanyun-shop-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="guanyun-shop" target="1.8" />
+      <module name="guanyun-shop-admin" target="1.8" />
+      <module name="guanyun-shop-bean" target="1.8" />
+      <module name="guanyun-shop-portal" target="1.8" />
+      <module name="guanyun-shop-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
