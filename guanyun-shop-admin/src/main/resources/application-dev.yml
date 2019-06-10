@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql:///guanyun?characterEncoding=UTF8&serverTimezone=Asia/Shanghai&useSSL=false
+    username: root
+    password: root
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 10
+      max-lifetime: 5
+#  redis:
+#    host: 47.110.57.137
+#    port: 6378
+#    password: j&RIrH+OB3iaJYUr

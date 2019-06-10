@@ -1,0 +1,25 @@
+server:
+  port: 8003
+
+logging:
+  level:
+    org.springframework.web.client.RestTemplate: debug
+
+spring:
+  profiles:
+    active: local,dev,master
+  application:
+    name: guanyun-shop-admin
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/*Mapper.xml
+  typeAliasesPackage: com.guanyun.shop.bean.entity
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+    refresh: true
+  configuration:
+    cache-enabled: false
+    map-underscore-to-camel-case: false
