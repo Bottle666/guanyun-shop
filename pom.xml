@@ -26,7 +26,7 @@
     <mybatis-plus-boot-starter.version>3.0.6</mybatis-plus-boot-starter.version>
     <swagger2.version>2.7.0</swagger2.version>
     <swagger-annotations.version>1.5.15</swagger-annotations.version>
-    <jackson.version>2.9.5</jackson.version>
+    <jackson.version>2.12.7.1</jackson.version>
   </properties>
 
   <!--管理版本-->
